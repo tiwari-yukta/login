@@ -27,9 +27,9 @@ const Dashboard = () => {
           <h1 className="text-xl font-bold">Dashboard</h1>
           <div className="flex items-center">
             <img
-              src="https://via.placeholder.com/40"
+              src="https://images.unsplash.com/photo-1639149888905-fb39731f2e6c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fHVzZXJ8ZW58MHx8MHx8fDI%3D"
               alt="User"
-              className="rounded-full"
+              className="rounded-full w-10 h-10 object-cover"
             />
             <span className="ml-2">Yukta Tiwari</span>
           </div>
